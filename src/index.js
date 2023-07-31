@@ -1,4 +1,6 @@
 /* @flow */
+var danger = 'dangerous'
+eval(danger)
 
 import * as Colors from './styles/colors';
 import type { Theme as _Theme } from './types';
