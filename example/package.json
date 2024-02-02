@@ -23,7 +23,7 @@
     "react-lifecycles-compat": "^3.0.4",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.1.tar.gz",
     "react-native-web": "^0.10.0-alpha.3",
-    "react-navigation": "^2.18.2",
+    "react-navigation": "^5.0.0",
     "typeface-roboto": "^0.0.54"
   },
   "devDependencies": {
