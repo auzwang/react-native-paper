@@ -47,9 +47,9 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@callstack/react-theme-provider": "^1.0.7",
-    "color": "^2.0.1",
-    "create-react-context": "^0.2.3",
+    "@callstack/react-theme-provider": "^2.0.0",
+    "color": "^3.1.4",
+    "create-react-context": "^0.3.0",
     "hoist-non-react-statics": "^3.1.0",
     "react-lifecycles-compat": "^3.0.4",
     "react-native-safe-area-view": "^0.12.0"
