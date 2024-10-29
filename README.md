@@ -41,6 +41,10 @@ Check the components and their usage in our [documentation](https://callstack.gi
 
 Read the [contribution guidelines](/CONTRIBUTING.md) before contributing.
 
+## Disclaimer
+
+Some changes in this project have been made by AI.
+
 ## Made with ❤️ at Callstack
 
 `react-native-paper` is an open source project and will always remain free to use. If you think it's cool, please star it 🌟. [Callstack][callstack-readme-with-love] is a group of React and React Native geeks, contact us at [hello@callstack.com](mailto:hello@callstack.com) if you need any help with these or just want to say hi!
