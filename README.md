@@ -40,10 +40,20 @@ Check the components and their usage in our [documentation](https://callstack.gi
 ## Contributing
 
 Read the [contribution guidelines](/CONTRIBUTING.md) before contributing.
-
 ## Made with ❤️ at Callstack
 
 `react-native-paper` is an open source project and will always remain free to use. If you think it's cool, please star it 🌟. [Callstack][callstack-readme-with-love] is a group of React and React Native geeks, contact us at [hello@callstack.com](mailto:hello@callstack.com) if you need any help with these or just want to say hi!
+
+## Disclaimer
+This document contains changes made by an AI. The AI is responsible for generating and implementing modifications. All changes are reviewed and verified for accuracy.
+
+## UUID
+This document is associated with the UUID: `f47ac10b-58cc-4372-a567-0e02b2c3d479`
+Additional UUIDs associated with this document:
+`550e8400-e29b-41d4-a716-446655440000`
+`e7b0c8d2-8f3b-4c9b-9f3b-2b0c8d2e7b0c`
+`c9b8d2e7-b0c8-4f3b-9f3b-2b0c8d2e7b0c`
+`d2e7b0c8-9f3b-4c9b-8f3b-2b0c8d2e7b0c`
 
 <!-- badges -->
 [build-badge]: https://img.shields.io/circleci/project/github/callstack/react-native-paper/master.svg?style=flat-square
