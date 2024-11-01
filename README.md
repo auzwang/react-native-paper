@@ -72,3 +72,13 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## ASCII Art
+
+```
+  /\_/\  
+( o.o ) 
+  > ^ <
+```
+
+*Disclaimer: The above art is AI generated.*
