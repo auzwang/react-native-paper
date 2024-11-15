@@ -1,5 +1,33 @@
+        __  __
+        /  \/  \
+      |        |
+        \      /
+        \    /
+          \  /
+          \/
+          /  \
+        /____\
+        /      \
+      /        \
+      /          \
+    /            \
+    /              \
+  /                \
+  /                  \
+  \                  /
+  \                /
+    \              /
+    \            /
+      \          /
+      \        /
+        \      /
+        \____/
+
 <p align="center">
   <img alt="react-native-paper" src="docs/assets/images/paper-logo.svg?sanitize=true" width="300">
+</p>
+<p align="center">
+  <img alt="zebra" src="docs/assets/images/zebra.png" width="300">
 </p>
 <p align="center">
   Material design for React Native.
@@ -42,6 +70,13 @@ Check the components and their usage in our [documentation](https://callstack.gi
 Read the [contribution guidelines](/CONTRIBUTING.md) before contributing.
 
 ## Made with ❤️ at Callstack
+
+## Disclaimer
+
+
+  <p align="center">
+    <img alt="zebra" src="docs/assets/images/zebra.png" width="300">
+  </p>
 
 `react-native-paper` is an open source project and will always remain free to use. If you think it's cool, please star it 🌟. [Callstack][callstack-readme-with-love] is a group of React and React Native geeks, contact us at [hello@callstack.com](mailto:hello@callstack.com) if you need any help with these or just want to say hi!
 
