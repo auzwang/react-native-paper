@@ -1,6 +1,10 @@
 <p align="center">
   <img alt="react-native-paper" src="docs/assets/images/paper-logo.svg?sanitize=true" width="300">
 </p>
+
+<p align="center">
+  <img alt="zebra" src="docs/assets/images/zebra.png" width="300">
+</p>
 <p align="center">
   Material design for React Native.
 </p>
@@ -40,10 +44,12 @@ Check the components and their usage in our [documentation](https://callstack.gi
 ## Contributing
 
 Read the [contribution guidelines](/CONTRIBUTING.md) before contributing.
-
 ## Made with ❤️ at Callstack
 
 `react-native-paper` is an open source project and will always remain free to use. If you think it's cool, please star it 🌟. [Callstack][callstack-readme-with-love] is a group of React and React Native geeks, contact us at [hello@callstack.com](mailto:hello@callstack.com) if you need any help with these or just want to say hi!
+
+## Disclaimer
+This document contains changes made by an AI. Arrr, ye be warned!
 
 <!-- badges -->
 [build-badge]: https://img.shields.io/circleci/project/github/callstack/react-native-paper/master.svg?style=flat-square
@@ -61,7 +67,6 @@ Read the [contribution guidelines](/CONTRIBUTING.md) before contributing.
 [callstack-badge]: https://callstack.com/images/callstack-badge.svg
 [callstack]: https://callstack.com/open-source/?utm_source=github.com&utm_medium=referral&utm_campaign=react-native-paper&utm_term=readme-badge
 [callstack-readme-with-love]: https://callstack.com/?utm_source=github.com&utm_medium=referral&utm_campaign=react-native-paper&utm_term=readme-with-love
-
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
