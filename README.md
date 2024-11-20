@@ -6,6 +6,13 @@
 </p>
 
 ---
+<pre>
+  /\___/\
+  (  o o  )
+  (  =^=  ) 
+  (--m-m--)
+</pre>
+
 
 [![Build Status][build-badge]][build]
 [![Version][version-badge]][package]
